@@ -137,6 +137,7 @@
 - [The Amp- Co-Working for Teams](https://theampvancouver.ca/) - 90-425 Carrall St
 - [The Aviary](http://theaviary.ca/) - 637 E 15th Ave
 - [L'Atelier Vancouver Coworking](http://ateliervancouver.com/) - 319 W Hastings St #400
+- [Cofunction Workspace](https://cofunction.ca/) - 1937 Triumph Street
 - [Colabs Communities](https://www.desktimeapp.com/colabs-communities-vancouver) - 1199 W Hastings St #1500
 - [The Cranium](http://www.thecranium.co/) - 308 E 5th Ave
 - [Creative Coworkers](http://creativecoworkers.com/) - 343 Railway St
